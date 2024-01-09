@@ -1,0 +1,10 @@
+/* styles.css or your preferred stylesheet */
+.error {
+  color: red;
+  font-size: 12px;
+}
+.response {
+  color: red;
+  font-size: 16px;
+  justify-content: center;
+}
